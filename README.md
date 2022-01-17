@@ -1,7 +1,5 @@
 ### Eii bem vindo(a) ao meu [PERFIL](https://github.com/gabrielhfm)
 ---
-<p align="center">
-</p>
 </p>
 <p align="center">
 <a href="#"><img title="Gabriel" src="https://img.shields.io/badge/og4briel-green?colorA=%23ff0000&colorB=%2307e4&style=for-the-badge"></a>
@@ -22,6 +20,6 @@
 </p>
 
 ---
-<p align="center">
-<p class="copyright">&copy; 2022  | Desenvolvido por <a href="https://github.com/gabrielhfm" target="_blank">Gabriel "Mebius"</a></p>
-</p>
+            <p align="center">
+            <p class="copyright">&copy; 2022 | Desenvolvido por <a href="https://github.com/gabrielhfm" target="_blank">Gabriel "Mebius"</a>
+
