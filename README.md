@@ -22,5 +22,5 @@
 </p>
 
 ---
-• [<a href="MEU WHATSAPP"> src="https://wa.me/555199571240"></a>
+<p class="copyright">&copy; 2022  | Desenvolvido por <a href="https://github.com/gabrielhfm" target="_blank">Gabriel "Mebius"</a></p>
 ---
