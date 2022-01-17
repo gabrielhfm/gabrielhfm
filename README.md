@@ -9,7 +9,7 @@
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/gabrielhfm"><img title="Seguidores" src="https://img.shields.io/github/followers/ytdl-org?color=blue&label=Seguidores&logo=Seguidores&logoColor=blue&style=flat-square"></a>
+<a href="https://github.com/gabrielhfm"><img title="Seguidores" src="https://img.shields.io/github/followers/JanDeDobbeleer?color=blue&label=Seguidores&logo=Seguidores&logoColor=blue&style=flat-square"></a>
 <a href="https://github.com/gabrielhfm"><img title="Estrelas" src="https://img.shields.io/github/stars/ytdl-org?affiliations=OWNER&color=blue&label=Estrelas&logo=Estrelas&logoColor=blue&style=flat-square"></a>
 <a href="https://github.com/gabrielhfm"><img title="Forks" src="https://img.shields.io/github/forks/ytdl-org/youtube-dl?color=blue&label=Forks&logo=Forks&logoColor=blue&style=flat-square"></a>
 <a href="https://github.com/gabrielhfm"><img title="Visualizacoes" src="https://img.shields.io/github/watchers/ytdl-org/youtube-dl?color=blue&label=Visualiza%C3%A7%C3%B5es&logo=Visualiza%C3%A7%C3%B5es&logoColor=blue&style=flat-square"></a>
