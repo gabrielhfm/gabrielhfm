@@ -21,5 +21,5 @@
 
 ---
            
-            <p class="copyright">&copy; 2022 | Desenvolvido por <a href="https://github.com/gabrielhfm" target="_blank">Gabriel "Mebius"</a>
+            <p class="copyright">&copy; 2022 | Desenvolvido por <a href="https://github.com/gabrielhfm" target="_blank">Gabriel "Mebius"</a></p>
 
