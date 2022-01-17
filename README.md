@@ -8,11 +8,11 @@
 <a href="https://github.com/gabrielhfm"><img title="Planejamentos" src="https://img.shields.io/badge/Planejamentos-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/gabrielhfm"><img title="Seguidores" src="https://img.shields.io/github/followers/gabrielhfm?color=blue&style=flat-square"></a>
-<a href="https://github.com/gabrielhfm"><img title="Estrelas" src="https://img.shields.io/github/stars/gabrielhfm/gabrielhfm?color=blue&style=flat-square"></a>
-<a href="https://github.com/gabrielhfm"><img title="Trabalhos" src="https://img.shields.io/github/forks/gabrielhfm/gabrielhfm?color=blue&style=flat-square"></a>
-<a href="https://github.com/gabrielhfm"><img title="Visualizações" src="https://img.shields.io/github/watchers/gabrielhfm/gabrielhfm?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/gabrielhfm"><img title="Data" src="https://img.shields.io/github/last-commit/gabrielhfm/gabrielhfm?color=blue"></a>
+<a href="https://github.com/gabrielhfm"><img title="Seguidores" src="https://img.shields.io/github/followers/gabrielhfm?label=Seguidores&color=blue&style=flat-square"></a>
+<a href="https://github.com/gabrielhfm"><img title="Estrelas" src="https://img.shields.io/github/stars/gabrielhfm/gabrielhfm?label=Estrelas&color=blue&style=flat-square"></a>
+<a href="https://github.com/gabrielhfm"><img title="Trabalhos" src="https://img.shields.io/github/forks/gabrielhfm/gabrielhfm?label=Trabalhos&color=blue&style=flat-square"></a>
+<a href="https://github.com/gabrielhfm"><img title="Visualizações" src="https://img.shields.io/github/watchers/gabrielhfm/gabrielhfm?label=Visualizações&color=blue&style=flat-square"></a>
+<a href="https://github.com/gabrielhfm"><img title="Data" src="https://img.shields.io/github/last-commit/gabrielhfm/gabrielhfm?color=blue&label=Data%20&logo=Data&logoColor=blue"></a>
 </p>
 <p align="center">
 <a href="https://instagram.com/o_g4briel_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
