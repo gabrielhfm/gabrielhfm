@@ -16,7 +16,7 @@
 </p>
 </p>
 <p align="center">
-<a href="https://instagram.com/o_g4briel_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="Instagram" width="20" height="20"></a>
+<a href="https://instagram.com/o_g4briel_"><img src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon.png" alt="Instagram" width="20" height="20"></a>
 </p>
 </p>
 <p align="center">
