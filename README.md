@@ -20,7 +20,9 @@
 <p align="center">
 <a href="https://gabrielhfm.github.io/"><img title="NOME" src="https://img.shields.io/badge/SITE-OG4BRIEL-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
-
+</p>
+</p>
+</p>
 ---
 • [MEU WHATSAPP](https://wa.me/555199571240)
 ---
