@@ -15,7 +15,7 @@
 <a href="https://github.com/gabrielhfm"><img title="Data" src="https://img.shields.io/github/last-commit/gabrielhfm/gabrielhfm?color=blue&label=Data%20&logo=Data&logoColor=blue"></a>
 </p>
 <p align="center">
-<a href="https://instagram.com/o_g4briel_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://instagram.com/o_g4briel_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="Instagram" width="20" height="20"></a>
 </p>
 </p>
 <p align="center">
