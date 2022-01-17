@@ -9,10 +9,10 @@
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/gabrielhfm"><img title="Seguidores" src="https://img.shields.io/github/followers/gabrielhfm/gabrielhfm?label=Seguidores&color=blue&style=flat-square"></a>
-<a href="https://github.com/gabrielhfm"><img title="Estrelas" src="https://img.shields.io/github/stars/gabrielhfm/gabrielhfm?label=Estrelas&color=blue&style=flat-square"></a>
-<a href="https://github.com/gabrielhfm"><img title="Trabalhos" src="https://img.shields.io/github/forks/gabrielhfm/gabrielhfm?label=Trabalhos&color=blue&style=flat-square"></a>
-<a href="https://github.com/gabrielhfm"><img title="Visualizacoes" src="https://img.shields.io/github/watchers/gabrielhfm/gabrielhfm?label=Visualizacoes&color=blue&style=flat-square"></a>
+<a href="https://github.com/gabrielhfm"><img title="Seguidores" src="https://img.shields.io/github/followers/gabrielhfm?color=blue&label=Seguidores&logo=Seguidores&logoColor=blue&style=flat-square"></a>
+<a href="https://github.com/gabrielhfm"><img title="Estrelas" src="https://img.shields.io/github/stars/gabrielhfm?affiliations=OWNER&color=blue&label=Estrelas&logo=Estrelas&logoColor=blue&style=flat-square"></a>
+<a href="https://github.com/gabrielhfm"><img title="Forks" src="https://img.shields.io/github/forks/ytdl-org/youtube-dl?color=blue&label=Forks&logo=Forks&logoColor=blue&style=flat-square"></a>
+<a href="https://github.com/gabrielhfm"><img title="Visualizacoes" src="https://img.shields.io/github/watchers/ytdl-org/youtube-dl?color=blue&label=Visualiza%C3%A7%C3%B5es&logo=Visualiza%C3%A7%C3%B5es&logoColor=blue&style=flat-square"></a>
 </p>
 </p>
 <p align="center">
