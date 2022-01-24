@@ -24,5 +24,5 @@
 
 ---
 <p align="center">           
-<a class="copyright">&copy; 2022 | Desenvolvido por <a href="https://github.com/gabrielhfm/MIT-License/blob/main/LICENSE" target="_blank">Gabriel "Mebius"</a></p>
+<a class="copyright">&copy; 2022 | Desenvolvido por <a href="https://github.com/gabrielhfm/MIT-License/blob/main/LICENSE" target="_blank">Gabriel Mebius</a></p>
 
