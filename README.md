@@ -15,7 +15,7 @@
 <a href="https://github.com/gabrielhfm"><img title="Visualizacoes" src="https://img.shields.io/github/watchers/ytdl-org/youtube-dl?color=blue&label=Visualiza%C3%A7%C3%B5es&logo=Visualiza%C3%A7%C3%B5es&logoColor=blue&style=flat-square"></a>
 </p>
 <p align="center">
-<a href="https://instagram.com/o_g4briel_"><img src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon.png" alt="Instagram" width="30" height="30"></a>
+<a href="https://instagram.com/biel_hme"><img src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon.png" alt="Instagram" width="30" height="30"></a>
 </p>
 </p>
 <p align="center">
