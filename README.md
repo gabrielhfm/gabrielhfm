@@ -19,5 +19,5 @@
  ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 ---
 <p align="center">           
-<a class="copyright">&copy; 2022 | Desenvolvido por <a href="https://github.com/gabrielhfm/MIT-License/blob/main/LICENSE" target="_blank">Gabriel Mebius</a></p>
+<a class="copyright">&copy; 2022 | Desenvolvido por <a href="https://github.com/gabrielhfm" target="_blank">Gabriel Mebius</a></p>
 
