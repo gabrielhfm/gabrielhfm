@@ -1,12 +1,6 @@
 ### Olá bem vindo(a) ao meu PERFIL DO GITHUB!!
 ---
 </p>
-<p align="center">
-<a href="#"><img title="Gabriel" src="https://img.shields.io/badge/og4briel-green?colorA=%23ff0000&colorB=%2307e4&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/gabrielhfm"><img title="Planejamentos" src="https://img.shields.io/badge/Planejamentos-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
 </p>
 <p align="center">
 <a href="https://github.com/gabrielhfm"><img title="Seguidores" src="https://img.shields.io/github/followers/JanDeDobbeleer?color=blue&label=Seguidores&logo=Seguidores&logoColor=blue&style=flat-square"></a>
