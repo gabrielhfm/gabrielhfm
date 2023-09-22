@@ -16,7 +16,7 @@
 <a href="https://gabrielhfm.github.io/"><img title="NOME" src="https://img.shields.io/badge/SITE-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
- ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/gabrielhfm/gabrielhfm/main/github-contribution-grid-snake.svg)
 ---
 <p align="center">           
 <a class="copyright">&copy; 2022 | Desenvolvido por <a href="https://github.com/gabrielhfm" target="_blank">Gabriel Mebius</a></p>
